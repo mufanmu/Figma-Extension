@@ -1,0 +1,7 @@
+# Release prep
+node_modules/
+*.log
+.DS_Store
+
+# 用户本地备份，勿提交
+*.bak
