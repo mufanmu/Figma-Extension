@@ -1,5 +1,7 @@
 # Figma Ratio Grid
 
+> 🎬 **演示视频**：[点击观看](https://github.com/mufanmu/Figma-Extension/releases/download/v1.0/export-1791464829148.mp4)
+
 给 Figma 桌面端加上「宽高比例快速调整」：点击右侧属性面板的 **宽 / 高** 输入框，弹出 3×3 比例网格（1:1、4:3、16:9 …），点一下即按该比例调整选中图层尺寸——替代「手动输入宽高 → 锁比例 → 拖拽」的工作流。
 
 ```
