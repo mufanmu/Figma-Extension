@@ -1,5 +1,7 @@
 # Figma Ratio Grid（中文说明见下）
 
+![demo](demo.gif)
+
 Adds a **ratio grid** to Figma Desktop: click the **W / H** input in the properties panel, pick a preset ratio (1:1, 4:3, 16:9 …), and every selected layer is resized to that ratio instantly — no more manual width/height typing or lock-ratio dragging.
 
 Fully standalone — no Figma plugin installation, no dependency on any community tool.
